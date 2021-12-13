@@ -1,3 +1,5 @@
+baguetteBox.run('.gallery');
+
 
  function searchBar() {
     let input = document.getElementById('search').value;
